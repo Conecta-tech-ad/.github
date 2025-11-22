@@ -1,4 +1,4 @@
-![Banner](.profile/banner.png)
+![Banner](profile/banner.png)
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/Conecta-tech-ad?style=for-the-badge&label=Seguidores&color=0A66C2"/>
